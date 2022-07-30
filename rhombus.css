@@ -1,0 +1,29 @@
+h1.sheet-title {
+    color: black; text-align: right;
+	font-family: "Courier New", Courier, monospace
+}
+
+table.sheet-nametable tr {
+    width: 100%;
+}
+table.sheet-nametable td {
+    padding: 5px;
+	width: 15%;
+}
+
+.sheet-rightalign {
+    text-align: right;
+}
+
+tr.sheet-headerrow {
+    font-weight: bold;
+}
+
+select {
+    width: 140px;
+}
+
+section.sheet-headerarea {
+    width: 100%;
+    border: 3px solid black;
+}
